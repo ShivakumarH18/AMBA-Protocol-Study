@@ -1,4 +1,3 @@
-# AMBA-Protocol-Study
 # AMBA Protocol Study
 
 ## Overview
